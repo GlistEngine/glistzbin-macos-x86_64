@@ -1,0 +1,19 @@
+11:58:14 **** Incremental Build of configuration Release for project GlistApp ****
+/usr/bin/make all 
+/usr/local/Cellar/cmake/3.19.4/bin/cmake -S/Users/noyan/dev/glist/myglistapps/glistapp -B/Users/noyan/dev/glist/myglistapps/glistapp/build/Release --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/local/Cellar/cmake/3.19.4/bin/cmake -E cmake_progress_start /Users/noyan/dev/glist/myglistapps/glistapp/build/Release/CMakeFiles /Users/noyan/dev/glist/myglistapps/glistapp/build/Release//CMakeFiles/progress.marks
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/Makefile2 all
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/depend
+cd /Users/noyan/dev/glist/myglistapps/glistapp/build/Release && /usr/local/Cellar/cmake/3.19.4/bin/cmake -E cmake_depends "Unix Makefiles" /Users/noyan/dev/glist/myglistapps/glistapp /Users/noyan/dev/glist/myglistapps/glistapp /Users/noyan/dev/glist/myglistapps/glistapp/build/Release /Users/noyan/dev/glist/myglistapps/glistapp/build/Release /Users/noyan/dev/glist/myglistapps/glistapp/build/Release/CMakeFiles/GlistEngine.dir/DependInfo.cmake --color=
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/build
+make[2]: Nothing to be done for `CMakeFiles/GlistEngine.dir/build'.
+[ 88%] Built target GlistEngine
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/GlistApp.dir/build.make CMakeFiles/GlistApp.dir/depend
+cd /Users/noyan/dev/glist/myglistapps/glistapp/build/Release && /usr/local/Cellar/cmake/3.19.4/bin/cmake -E cmake_depends "Unix Makefiles" /Users/noyan/dev/glist/myglistapps/glistapp /Users/noyan/dev/glist/myglistapps/glistapp /Users/noyan/dev/glist/myglistapps/glistapp/build/Release /Users/noyan/dev/glist/myglistapps/glistapp/build/Release /Users/noyan/dev/glist/myglistapps/glistapp/build/Release/CMakeFiles/GlistApp.dir/DependInfo.cmake --color=
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/GlistApp.dir/build.make CMakeFiles/GlistApp.dir/build
+make[2]: Nothing to be done for `CMakeFiles/GlistApp.dir/build'.
+[100%] Built target GlistApp
+/usr/local/Cellar/cmake/3.19.4/bin/cmake -E cmake_progress_start /Users/noyan/dev/glist/myglistapps/glistapp/build/Release/CMakeFiles 0
+
+11:58:14 Build Finished. 0 errors, 0 warnings. (took 481ms)
+

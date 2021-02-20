@@ -1,0 +1,14 @@
+11:58:13 **** Incremental Build of configuration Release for project GlistEngine ****
+/usr/bin/make all 
+/usr/local/Cellar/cmake/3.19.4/bin/cmake -S/Users/noyan/dev/glist/glistengine/engine -B/Users/noyan/dev/glist/glistengine/engine/build/Release --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/local/Cellar/cmake/3.19.4/bin/cmake -E cmake_progress_start /Users/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles /Users/noyan/dev/glist/glistengine/engine/build/Release//CMakeFiles/progress.marks
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/Makefile2 all
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/depend
+cd /Users/noyan/dev/glist/glistengine/engine/build/Release && /usr/local/Cellar/cmake/3.19.4/bin/cmake -E cmake_depends "Unix Makefiles" /Users/noyan/dev/glist/glistengine/engine /Users/noyan/dev/glist/glistengine/engine /Users/noyan/dev/glist/glistengine/engine/build/Release /Users/noyan/dev/glist/glistengine/engine/build/Release /Users/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/DependInfo.cmake --color=
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/build
+make[2]: Nothing to be done for `CMakeFiles/GlistEngine.dir/build'.
+[100%] Built target GlistEngine
+/usr/local/Cellar/cmake/3.19.4/bin/cmake -E cmake_progress_start /Users/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles 0
+
+11:58:14 Build Finished. 0 errors, 0 warnings. (took 396ms)
+

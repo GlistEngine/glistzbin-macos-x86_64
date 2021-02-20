@@ -1,0 +1,1107 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: CqthvDmkgYNkuNpwiFx1eMnCv/SSU
+ WRMTHrseRG/WUE=
+SHA-256-Digest-Manifest: b0cYOW8N6x4Di6cWswQ6P6sgzfM7q0dT93Weq9fNHG4=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: jre/legal/java.base/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: eluxozN/KUtocNFvpSZiTbpuYNjioTRo0RKTAqufr0s=
+
+Name: jre/legal/java.net.http/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: ujl/CeeI0MAjEL8ceVx+IqXlDpDLNVQvnr275A4kcK0=
+
+Name: jre/lib/libosxkrb5.dylib
+SHA-256-Digest: jfILqkSVMXxT9+AJGxrWoX1KhDQqavcULSSQ72JuWTM=
+
+Name: jre/bin/javadoc
+SHA-256-Digest: L0qWeZTsWK7pc2uQ4A6tjEBZHYK/fkocWJCMCI5E0ng=
+
+Name: jre/legal/java.base/icu.md
+SHA-256-Digest: ZxsnqOUF3G3zll8dhps/AKG54aU1dO3O1BmrQOE3fOw=
+
+Name: jre/legal/java.rmi/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: JsAdBUGSm+z8lSDKKeRQTe0Q3FA9HORuovimbkOWvLA=
+
+Name: jre/legal/jdk.jconsole/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 6bJzaoM+YVXirD+UFx9p7HYhVlwxMWQ6pqrSjERJIc0=
+
+Name: jre/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION
+SHA-256-Digest: sTCnZsgWoDkdI/diRSgwGawZUp9yKSf92Cbvo2wkC6E=
+
+Name: jre/legal/jdk.jshell/LICENSE
+SHA-256-Digest: TndyTDbCJnVpTUSn65v//DE+IwywuoWH0xAaYxzH2Ws=
+
+Name: jre/legal/jdk.crypto.ec/LICENSE
+SHA-256-Digest: zAOe6qMSIH+l/c2GlY8StgUSDiLWUxFZX6E6zb90dCg=
+
+Name: jre/legal/java.xml/LICENSE
+SHA-256-Digest: OyHo42kKjSkfbDngEIF5nlEfm6YzoN62wTHUsPXRz04=
+
+Name: jre/legal/jdk.management.agent/LICENSE
+SHA-256-Digest: vp6MUUKAR5Jr5cgslUB1Zg8X1ssH7RC3k2Hqiaikiqo=
+
+Name: jre/legal/jdk.jcmd/LICENSE
+SHA-256-Digest: moTcFyK4F2BZof/MdM7B8Ju/Pgqi3cEYwJ42joo5S6o=
+
+Name: jre/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: W+yvtO1uWEl0QpsBi91sh+/rFKujOvtQwpRaUXalQOE=
+
+Name: jre/bin/jjs
+SHA-256-Digest: EnbdYRbYbI/XAdb7uwniOuou4WLT8i4PlZ2qbiPUWgI=
+
+Name: jre/legal/java.sql/LICENSE
+SHA-256-Digest: dZGY0HOkLHtjqVrpX0/YEpzMkxhRZfIbXRpMl989dPw=
+
+Name: jre/legal/jdk.net/ASSEMBLY_EXCEPTION
+SHA-256-Digest: tkIksm1TtQz/6qXKuNiidghhS3x41vwIJUZR573qtOQ=
+
+Name: jre/lib/libprefs.dylib
+SHA-256-Digest: cLoCr9A/kqZSAw4xFaAZeT0c5b7180G7JxqwXxE9gMo=
+
+Name: jre/legal/jdk.security.jgss/LICENSE
+SHA-256-Digest: H6QblYcSkXPg8Z7/xtk2MzEoUQdq9uI3L/p2OOkEgbc=
+
+Name: jre/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION
+SHA-256-Digest: bpmhTUrli//xo+LHhpYVBWXaZwlKRPhT5hNQhiJLlJY=
+
+Name: jre/bin/jmod
+SHA-256-Digest: K9JOiLxexRWHFTXSx9CgmP5tS2hgVi9bPSTo+E6N4xE=
+
+Name: jre/legal/jdk.net/LICENSE
+SHA-256-Digest: hmTDpoO7WLaGeyPP7XP1HQBoDFp24oJpL20NApelWEM=
+
+Name: jre/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION
+SHA-256-Digest: u1ypNhHz8bG/Ic/zzCfqeBE8CY+3e2coCMP8GpbWrLI=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: GEmzvOG8U4WaDgb+zAn25r/q8j/bqucX7ihtcwoP4zU=
+
+Name: jre/legal/jdk.jshell/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 2tav290xITfw3Y33BVMrJZhDHBChm5+5e3pEcE53Yok=
+
+Name: jre/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: YiuOf187VUFAv5jNdUnccgJc4EM/H7j7toJ75wsqA1w=
+
+Name: jre/conf/security/policy/limited/default_local.policy
+SHA-256-Digest: klM98JgyZhlC6/nzVsoFf6a2gYfeCdQgDZ5du+x7F10=
+
+Name: jre/legal/jdk.jfr/LICENSE
+SHA-256-Digest: F7OURmDfzOMu6LIQfbHF1TKs5rz6ci4I6RvXU/iGhS4=
+
+Name: jre/lib/libattach.dylib
+SHA-256-Digest: 1717EQZHlmGM/29UexdpG2M3modFUn8Pk0NugYcyDVg=
+
+Name: jre/legal/java.security.jgss/LICENSE
+SHA-256-Digest: ywx53yE5lonVPxtMLpK7FZ/ip0rimQTfrQ0dVXyiq0M=
+
+Name: META-INF/maven/org.eclipse.justj/org.eclipse.justj.openjdk.hotsp
+ ot.jre.full.macosx.x86_64/pom.properties
+SHA-256-Digest: 7iml7q6pUwpTAW1Ee943mCVtdvwFq3pWPJsWKle8Frk=
+
+Name: jre/legal/jdk.rmic/LICENSE
+SHA-256-Digest: AAwX5Ti33voKXHhT65a4o1pbo1ki/wgrC6IgFruBzyk=
+
+Name: jre/lib/libsunec.dylib
+SHA-256-Digest: 0KnG4g0sFJALnQ5wVoSIE2JOtq4WKFZpUdm2jRkzlEw=
+
+Name: jre/lib/modules
+SHA-256-Digest: uMzkhTPVuXAmO1QhqMdMwsoDXq+GusQspIoehQa5Sug=
+
+Name: jre/legal/java.compiler/ASSEMBLY_EXCEPTION
+SHA-256-Digest: T1x2f7czVhZRJ/2zD4UD0kdQ7wR2wZkr8tEUnCNIuto=
+
+Name: jre/legal/java.net.http/LICENSE
+SHA-256-Digest: Ho+PQd63oqieb/zNtX4kql+pVy709FH/uMN4AgryJr8=
+
+Name: jre/bin/jarsigner
+SHA-256-Digest: jv//Piy7F8BalfNXy1lgpsSRMbjNZILw2yFRtW/D8Ug=
+
+Name: jre/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION
+SHA-256-Digest: Gc+CfvVkSp4stUI+TGmsAS71/x9TqSkNHUIZzCEu2Sg=
+
+Name: jre/legal/jdk.internal.vm.ci/LICENSE
+SHA-256-Digest: myLT7TFT0/4KuQRFP4YFQjqwpl1q5I2Po+lM0ExMct4=
+
+Name: jre/legal/jdk.jartool/ASSEMBLY_EXCEPTION
+SHA-256-Digest: PEpdRPMY673bAbRdSeaA3JbgJDZqg7Op8LDwPU5Zp0c=
+
+Name: jre/lib/libosxsecurity.dylib
+SHA-256-Digest: YNCVaaTBgpj+eBKGRtFOC2NUJ9Zis8nemCQVxurlJ0E=
+
+Name: jre/legal/jdk.zipfs/ASSEMBLY_EXCEPTION
+SHA-256-Digest: K9vHKj3MEu5YZrhbpiymqkFPLMtWFHZe5tZt5r2ZSZ8=
+
+Name: jre/lib/libawt_lwawt.dylib
+SHA-256-Digest: W8zp6OWH2rnBX4NpBHvqkkykn92XENSRsZbzGMscCBA=
+
+Name: jre/lib/libzip.dylib
+SHA-256-Digest: 2Bp3CEJ7xoBkQMvjTk6vjiPmM/TacFwrvoLvG+gQrCE=
+
+Name: jre/legal/jdk.nio.mapmode/LICENSE
+SHA-256-Digest: RmUYz7lxEZ4piGTuIRkc9TT9crbKobMgXqB+YbifVJU=
+
+Name: jre/legal/jdk.security.auth/LICENSE
+SHA-256-Digest: X3UrI1V5YpitR6T9ksPiwZpoAZfJAoc8X7aBk7aNrBE=
+
+Name: jre/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION
+SHA-256-Digest: GHpAUxaSR26Iz3CLRGpeZ3sblxPprcVnSeBH+PZa0jY=
+
+Name: jre/bin/jstatd
+SHA-256-Digest: Z0lt1/VjwzZrkfwiM7fuzbHDLVOQs1fsX3kMP5aIGdM=
+
+Name: jre/bin/rmid
+SHA-256-Digest: UQWzwR4V1ugRb57TC8Sp68nsLoZbPAVchCgxyIKo1zg=
+
+Name: jre/conf/security/policy/unlimited/default_US_export.policy
+SHA-256-Digest: VyOOFNw3bBZFfBusR2HDzlZjNdxiGRdOJf1ovDZU5Yk=
+
+Name: jre/legal/jdk.jcmd/ASSEMBLY_EXCEPTION
+SHA-256-Digest: wSxcm21jT5VfQzdYhnL1Cxhr7sLz9Cos8Y2PYGc8LSM=
+
+Name: jre/bin/jcmd
+SHA-256-Digest: DdHPlfoFIOhQdn24XL9JeDay7nqLBKIIJ2kv1xOJpGI=
+
+Name: jre/lib/security/public_suffix_list.dat
+SHA-256-Digest: L40oHBAxxRL+MwXJoo3fUdxgOCt6W8Ji+CH9KVHbhWg=
+
+Name: jre/legal/jdk.sctp/LICENSE
+SHA-256-Digest: JeKc2Is3F3JixgbzRWFViPYngdTl9nVqb+v0fXbeJl8=
+
+Name: jre/legal/java.security.sasl/ASSEMBLY_EXCEPTION
+SHA-256-Digest: ZovUVqio1JtRcYlk+GIcp03RfpJOOrt6Xb82kqUJQEg=
+
+Name: jre/legal/jdk.jartool/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: VTDVVMKYv8eN7ktlhHhCTnSHEl4FZpK3z1L8DBDxnP0=
+
+Name: jre/legal/java.scripting/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: ffUrmBObJ1y0yDEJbE8QfMx2TlVYuE0XYkKZiSiZgXo=
+
+Name: jre/legal/java.xml/xerces.md
+SHA-256-Digest: KFf7mjbSNpvMCcz7zqUZ2zxb375ftTVj5CxX/zLLZR0=
+
+Name: jre/conf/management/jmxremote.password.template
+SHA-256-Digest: 5cB60eY5gZrssxfyOvDPJrGqqxYJLUQyddWlbH844tg=
+
+Name: jre/legal/jdk.editpad/ASSEMBLY_EXCEPTION
+SHA-256-Digest: Jri+nzfTaQSiFTXU77JaNAQTrQzzbn3iXzn4Suz4G+Q=
+
+Name: jre/legal/java.smartcardio/ASSEMBLY_EXCEPTION
+SHA-256-Digest: KbQnvC0Yw6oGT6ArH2wSVMBKPnAaXjqvfub7g+eUGg8=
+
+Name: jre/lib/fontconfig.properties.src
+SHA-256-Digest: wmz0+wsMGCa8H2StZrYedvfF7SxXKxi10S3ZvRzlGCM=
+
+Name: about.mappings
+SHA-256-Digest: uovxSOuXMw2c3tvnKHAFtiQsnPW7WZtpLKjpjRkwGpk=
+
+Name: jre/legal/jdk.internal.le/LICENSE
+SHA-256-Digest: x3oMjvl2BcvsoyqEIPJZO7IBzCfx75uPWSUfRnHKJRo=
+
+Name: jre/bin/jrunscript
+SHA-256-Digest: 2JbwFGZDbHhzX+hGLEXEVqFuE4x+6gCRJ5h314I1ius=
+
+Name: jre/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: RWAN0m7kjEybX0eIXCxIajctItsOni/zaZ4aCPHHquQ=
+
+Name: jre/legal/java.prefs/ASSEMBLY_EXCEPTION
+SHA-256-Digest: +GYUP2s02rDyKT/qxaDhdqtsgAtBvs5pD7F2+VVFfvU=
+
+Name: jre/legal/jdk.jartool/LICENSE
+SHA-256-Digest: JYAhcSHuUcmsfHdvyxv1NLvThyvP8tnTbx0Ysh55NoE=
+
+Name: jre/bin/jinfo
+SHA-256-Digest: IR3jfso+gb17rPIopRRjqLCKKtSLRnSVCYLkLaCvbss=
+
+Name: jre/legal/jdk.jlink/ASSEMBLY_EXCEPTION
+SHA-256-Digest: /G49WvEEdn0gxAGVFwNtjE8xV73YGnnVwnFd1x/i2wA=
+
+Name: jre/legal/java.desktop/jpeg.md
+SHA-256-Digest: abYRP+d8OvDVhO+vl8wr7kfWu6Y3C0KpcN2/T5ScM9k=
+
+Name: jre/bin/rmic
+SHA-256-Digest: RFhOBWP9ubtyA0EesFQQK1w+RM6cvLPaMGnb1qeMdEw=
+
+Name: jre/legal/jdk.javadoc/jqueryUI.md
+SHA-256-Digest: JtfL1Aenm12w7TR+ozlzSeOiiu/D4tQ0KukPqK1uZTs=
+
+Name: jre/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: NpVBqIynFN2DaX4suFxyQibYQ0+MkwmgBMZIA1zvKqg=
+
+Name: jre/legal/jdk.jstatd/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 3BbVG1ilNGKs1oBTOQUWAl5VhfaBZGbhOGp9lHFGwbc=
+
+Name: jre/legal/jdk.scripting.nashorn.shell/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 3EA1b/aFUL4Ii/X5EucO8HoHtSkM6eSIxAjMcR32xYQ=
+
+Name: jre/bin/jmap
+SHA-256-Digest: X+97VU1hQFG3vfYALf1RoESU1ZkqW+iIzLyegQSBFCo=
+
+Name: jre/legal/java.base/public_suffix.md
+SHA-256-Digest: Pkv3RCJxcBPJpv3KcE8R8fP/kYi39TpWRlZZI6K3jAA=
+
+Name: jre/legal/jdk.management.agent/ASSEMBLY_EXCEPTION
+SHA-256-Digest: Ro1tf4cTWiqJCgSuHeySS+wxZm31/N1JOBKxqb0IQus=
+
+Name: jre/legal/jdk.charsets/LICENSE
+SHA-256-Digest: OHMDgzdt6s49h8S1pa9LwaCZOod8KG9TC8OxwS8It6w=
+
+Name: jre/legal/java.naming/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: AM/vc0ehWvIrojh1qUWmYErPO8CpKXCXsQfO2LMK3YA=
+
+Name: jre/legal/jdk.aot/ASSEMBLY_EXCEPTION
+SHA-256-Digest: /cSgHwGuqQk8EFWDLSLl2v84ZtzPSNWWzdd21H/+288=
+
+Name: jre/legal/jdk.aot/LICENSE
+SHA-256-Digest: lzjdPf9X/dZda7WcM8p3nUJO27Iol1E/p07L6TW59i4=
+
+Name: jre/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 7pDmLhUV9YBtkiN2ZgAMyoOVKR+LXS/dF3WjEt+ftrw=
+
+Name: jre/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE
+ _INFO
+SHA-256-Digest: zfEu/n63mnVchRzNPyS6XSuuuxoC+On+OxXrpoDn2Sc=
+
+Name: jre/conf/net.properties
+SHA-256-Digest: E192Zi121WH5IOa4r5KQmuJeFIpOuwx8qTl0h/iRjZg=
+
+Name: jre/legal/jdk.httpserver/LICENSE
+SHA-256-Digest: b6QpO+SU2/BRv24/kGVZroBaoI3BGSvyZBNGb4qvlME=
+
+Name: jre/lib/libdt_socket.dylib
+SHA-256-Digest: WO4mBeXVYLhTf+qi4poWpsHjASZ68m0cTXItlw6+mio=
+
+Name: jre/legal/jdk.internal.jvmstat/LICENSE
+SHA-256-Digest: y8wGn2SL5uSE/hph2wTXV/PwAMqgUiPmVScso9NyLW0=
+
+Name: jre/legal/jdk.jsobject/ASSEMBLY_EXCEPTION
+SHA-256-Digest: IIVf8fZ0VH3czYmnkRxBZTIB/I/qMkD9A+miywbyGyM=
+
+Name: jre/lib/psfont.properties.ja
+SHA-256-Digest: a4DuYe4/n+twbr8yDzpvqDk/cQzOiZZYHBYgH9RhiFQ=
+
+Name: jre/lib/jspawnhelper
+SHA-256-Digest: 61VUKcrvL61NVlQvc1Ap+DRaYMwxHFGwbrNsGaDXrZk=
+
+Name: jre/lib/libextnet.dylib
+SHA-256-Digest: oHOl2qA2O9O6DYbzGg0hIUCnJ9Wgrs5temM6AiMzyGk=
+
+Name: jre/bin/jhsdb
+SHA-256-Digest: d4oejPvYCIICOlo6a+DF/D74HqAwvmI8PaK3DHb74aI=
+
+Name: jre/lib/libosxui.dylib
+SHA-256-Digest: 0pi8sjShHK9qhUhpIDmf26RD6i10npF5kQhDq01686Q=
+
+Name: jre/legal/jdk.jdeps/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: rPScEZ0W02rZ+j25XOMC0Gi5MnV5YCILjfdNO2WENI0=
+
+Name: jre/lib/libsplashscreen.dylib
+SHA-256-Digest: H70AV3tu2Eqqe7izA+Asv3im4FOpklYbw8RUx3f625s=
+
+Name: jre/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: xWIGJco8P47OlUhYaf6eghmBq3ZJAUBdiKP846gvhzE=
+
+Name: jre/bin/jstack
+SHA-256-Digest: Fiye1WD1IADLTSI7C89hTDQNwSMj7UUXTGrSBT8GMCU=
+
+Name: jre/legal/java.xml/jcup.md
+SHA-256-Digest: y0lZcwprD71/gyerypgP84S0QlLLlrq9LTdbuSSC6pA=
+
+Name: jre/legal/jdk.internal.vm.compiler/LICENSE
+SHA-256-Digest: 0GiwlihnAITvPK3KjedvWj739Nydu4/x/xm+J7neUKA=
+
+Name: jre/legal/jdk.nio.mapmode/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: L3NhUl51gcKzRB52q/SgHGjO4ygPznjjnEepv4EUL8E=
+
+Name: jre/lib/server/libjvm.dylib
+SHA-256-Digest: Xs0g7jtWF7ILNLv7kUgBhbovoZQpGuhJgzsiMm/G/DI=
+
+Name: jre/lib/librmi.dylib
+SHA-256-Digest: ie9MVHu9aIx1Et5BYFxMCSmgid+07TdYaJmLjpka/p8=
+
+Name: jre/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION
+SHA-256-Digest: VFcjvN5HXdo2HLhOdEF5ZwUhTeCxBxmJpEvy4vhNxnE=
+
+Name: jre/legal/jdk.sctp/ASSEMBLY_EXCEPTION
+SHA-256-Digest: RirxhUZb6Jndk+dkLjRJbMkBJUiBWbTUnIUSQ18wx3A=
+
+Name: jre/lib/libmanagement_ext.dylib
+SHA-256-Digest: VMnqm1pqEMmAtvjrxOZjAL2a+hzynRlpqtjMQVNURXo=
+
+Name: META-INF/maven/org.eclipse.justj/org.eclipse.justj.openjdk.hotsp
+ ot.jre.full.macosx.x86_64/pom.xml
+SHA-256-Digest: 4fKtSfuLqiOEo8ycFpvH7OtyhhG0XHqcxANoIUgDnNE=
+
+Name: jre/legal/jdk.javadoc/ASSEMBLY_EXCEPTION
+SHA-256-Digest: C6iuUrnIf1bDQM0zepKCCuFerxBUIQgvS3RFeylACHQ=
+
+Name: jre/lib/security/blacklisted.certs
+SHA-256-Digest: DJLKOK7LMFw138w8yMpQDRJFPHjUJXbvelBDsnF0JME=
+
+Name: jre/conf/security/policy/README.txt
+SHA-256-Digest: LOuQt+v9LY3FWEBazUk0vQyIYR02h46WV55yZcnfEho=
+
+Name: jre/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION
+SHA-256-Digest: QILl/V6GS1EeOaFd82Y5VKzyoyI35ptmWfHboh7fAok=
+
+Name: jre/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: RVZH/mYF/7D0M26SRsYlRu8CaMhZUhWT4e0/ec5spPQ=
+
+Name: jre/bin/jstat
+SHA-256-Digest: epHU9LQVPD8YcQwGuOQ+U+NakvywrExl0G469oncJL0=
+
+Name: jre/legal/jdk.jconsole/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 7+Y+HUj6W3feJFw7Avh8VMdUtLvWLKWwaWOhelbbdRk=
+
+Name: jre/legal/jdk.management/LICENSE
+SHA-256-Digest: EDjTTD6gRjNH/d8pOoKl+zX2nKhztNC9q1P7dup5isY=
+
+Name: jre/legal/jdk.dynalink/ASSEMBLY_EXCEPTION
+SHA-256-Digest: JBJpEkopVDiyisLeq4Al7x/bmOLAq3FDlZN6OK5efrU=
+
+Name: jre/legal/java.rmi/ASSEMBLY_EXCEPTION
+SHA-256-Digest: yllY5rVSgZdjsF9E0OvjEjLRfC+9LSuVyaP5lfwHFk4=
+
+Name: jre/legal/java.base/LICENSE
+SHA-256-Digest: 9GzUFjJJT3P2s0VORm0akvvvy0V2l1BQ3v1YQAn6j1s=
+
+Name: jre/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Wzrs8aU1t2IkWHbY2/pgyG53UOfypgIACC/08CQ8evk=
+
+Name: jre/legal/java.se/ASSEMBLY_EXCEPTION
+SHA-256-Digest: FdsiMuw0nWdun5wLg/RniDYktqK1iN7p0ngk1aa++wA=
+
+Name: jre/legal/java.xml/bcel.md
+SHA-256-Digest: MJGS3Vvr8h0RBg05VtExtnqVheZ7YGN7g0ZX6OelXVc=
+
+Name: jre/bin/jshell
+SHA-256-Digest: YPOogsog3KSkLeIys2BACs7gWRAwavO05+wndG4MRCY=
+
+Name: jre/legal/java.management.rmi/ASSEMBLY_EXCEPTION
+SHA-256-Digest: rpPPfBqMRcBcqGS0MG9APg2aLc/23GOK3LgRyevCbgs=
+
+Name: jre/legal/java.base/unicode.md
+SHA-256-Digest: Wt+bJ/QFTbGwUcYjdYJAyMMTyKXzpE42YCbkBcxj7eM=
+
+Name: jre/lib/libverify.dylib
+SHA-256-Digest: c25LjWEDvdDqnG0+QXclFOI5bUvwP/eSkPxwEjn4W78=
+
+Name: jre/legal/jdk.localedata/LICENSE
+SHA-256-Digest: QTzuStqDXw/hna6pegtW0sWbP29TkLuH9CXaqcxyU/w=
+
+Name: jre/lib/classlist
+SHA-256-Digest: 1706OYphc83RNDqjBpARQmA8IQeYEc1kWsV67IztlWU=
+
+Name: jre/org.eclipse.justj.properties
+SHA-256-Digest: v7D4BdaGHce0YLNirawzaM6LhG/KVrK8/52fcoSNawc=
+
+Name: jre/legal/java.naming/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 1WOhJtA1+bslCxAtDHHs4k/rMQ66TbgsJ9MFMwj8vig=
+
+Name: jre/legal/java.smartcardio/LICENSE
+SHA-256-Digest: iUrVlNArxGTXGchNzK7BKEqvzDl5A63TRI9ZmGwasr0=
+
+Name: jre/legal/java.desktop/colorimaging.md
+SHA-256-Digest: HeNb85CwjtH8yOoRxRg62891Nlvhf2M13Y8xZ+87zkI=
+
+Name: jre/legal/java.xml/xalan.md
+SHA-256-Digest: UnzHghwIi0TzT7qAbhxknlmdUpFzZlN7ABCpHuA/8ks=
+
+Name: jre/legal/java.logging/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: E4gyqly2s3pflW5bSViQMLKGjgfVCbpCGel18cZct9w=
+
+Name: jre/legal/java.security.jgss/ASSEMBLY_EXCEPTION
+SHA-256-Digest: n8g6EBjCMeimqU6uG35w3X6oPGgPbn7znIJnZXMTWSY=
+
+Name: jre/lib/libjsig.dylib
+SHA-256-Digest: EwNzINJwhgR9axWQWZhHCPIcrHUJzPthA4wXkYPCA40=
+
+Name: jre/legal/java.scripting/LICENSE
+SHA-256-Digest: xCOqRIZbUuYSaaFX+Dqiv90h0G47cIQK5cKsgNUu/x4=
+
+Name: jre/legal/jdk.jstatd/LICENSE
+SHA-256-Digest: dnHv5ouyWR9OdDmHaFwMpEO1i7Yio74NI0sqeJrYzaQ=
+
+Name: jre/lib/libjsound.dylib
+SHA-256-Digest: UOh1F2sdcC37eYPstNbrrsZv6U0xIKWj1TJfYh+VSxc=
+
+Name: jre/bin/jps
+SHA-256-Digest: yYpL84L1uu7CouDGgkmQJT8N9H++JAjI5iYiPPOJkDA=
+
+Name: jre/lib/libmanagement_agent.dylib
+SHA-256-Digest: M/KKHaST64YGlHh4Q2iW85IQ5dnV1bsWDTxdyiW3UcE=
+
+Name: jre/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION
+SHA-256-Digest: NPd0Tr7axln8CzNi2wieB+gCn6LxlX1dN0AOvWTLjuc=
+
+Name: jre/conf/sound.properties
+SHA-256-Digest: pPElcH/sYBRnWYZWOtVXSdYS0397hVvGohdLodkoQi0=
+
+Name: jre/lib/libjimage.dylib
+SHA-256-Digest: 6hyprcDlbxtIbmHDJWTVFuxHxf/KKFQyVEg28ZPAjs0=
+
+Name: jre/lib/security/default.policy
+SHA-256-Digest: jrTzEKJIqY4phUxAk0u889QWtQtuYGqX0XroNYgj8yY=
+
+Name: jre/legal/jdk.editpad/LICENSE
+SHA-256-Digest: 51xoPa39VXovotvV3jxFO2hGVucq1TGUrKAnaZZv6nk=
+
+Name: jre/lib/libinstrument.dylib
+SHA-256-Digest: 3cYdDFhEKY3yjiqsbotMGBKxGk2pgTLfc5P//6w9Jhg=
+
+Name: jre/legal/jdk.unsupported.desktop/LICENSE
+SHA-256-Digest: ugg62XaejRwlh4v5+qSUSz88v0LjE3ygALaR8e76MfE=
+
+Name: jre/legal/java.logging/ASSEMBLY_EXCEPTION
+SHA-256-Digest: HGVd9FvbeustknRgLsicqWpAwD8LzfuQaMqRZKGwOBE=
+
+Name: jre/lib/libj2gss.dylib
+SHA-256-Digest: vL9dRSEpBV6UR1td6lUmlvF8HXMnXZki7ZK1p6XXE8o=
+
+Name: jre/legal/java.instrument/ASSEMBLY_EXCEPTION
+SHA-256-Digest: pIoZN9XjQHeWVdhmsmVyps/nZbtVMqePQdgzVN6iMHo=
+
+Name: jre/lib/tzdb.dat
+SHA-256-Digest: LfO11DLsgNfMyVnzFEiVo/cPw4gCwL7N/4Chk05P5ic=
+
+Name: jre/legal/jdk.scripting.nashorn/ASSEMBLY_EXCEPTION
+SHA-256-Digest: F7iIXVYAGaAeCyykJcXeN1MPqIfXJMUNWzK7ovCXRcI=
+
+Name: jre/lib/libsaproc.dylib
+SHA-256-Digest: 6TYCMEgX1UIkkGdh602M3hqqMSRfDitakj2EyS11N5U=
+
+Name: jre/legal/java.desktop/harfbuzz.md
+SHA-256-Digest: jzdM8dBbo58yP4DtE9ZkVo1hpeXP0gqFxN1dg46jZOQ=
+
+Name: jre/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: AAZF8DS/US2TGn/qtdaU4OB++HL0Nz9I1SX9e+NeQVA=
+
+Name: jre/legal/java.smartcardio/pcsclite.md
+SHA-256-Digest: AB0bVKFeazS38KIzRb9XJ7M43G7LkJhgQ8p+MZfCr50=
+
+Name: jre/lib/libawt.dylib
+SHA-256-Digest: Mi/9al38nSuLSyxVSQg0QcDCzkU6xMndstlf1NFJmxc=
+
+Name: jre/lib/fontconfig.bfc
+SHA-256-Digest: rSCfCXCHTsRWh7qvsRGJWr0zaMjeHRNdj1dNK1zqY6o=
+
+Name: jre/legal/java.desktop/giflib.md
+SHA-256-Digest: rlvY3OWP58gk6tZjKLSPlWeAyh8fWvF1MKeojsRCfZs=
+
+Name: jre/bin/rmiregistry
+SHA-256-Digest: 7Wwp1FkpkizSqCyPVZFWi/5PiYNjbgQ/X+UvwUZ1CLs=
+
+Name: jre/bin/jconsole
+SHA-256-Digest: oxPkCBKCvXjBys3gpGtaxJvSPAj1Jf5ULB3X3Tnk0mo=
+
+Name: jre/legal/jdk.internal.opt/jopt-simple.md
+SHA-256-Digest: zVWPp4fahXNjOuJbBhUvCE5mswTlllgMPswp1fneGFA=
+
+Name: jre/legal/jdk.dynalink/dynalink.md
+SHA-256-Digest: 0j0pr3psMntVHTqSbSZ2LucyjCxILFtWfmNhxMqAT0s=
+
+Name: jre/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Zxg09NLOyF743DJG6zbY9hkPAUvOhzG+NNTEhm+I/k0=
+
+Name: jre/legal/jdk.net/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: gcng0MdL5Su/e2STDS+LZlkJoOnIXZcGUZFyvfkc4Vw=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: qhnOXXYnkJIE1tuToJb++kB0PeXD5Q5+oQHCQ9m95Ss=
+
+Name: jre/conf/security/policy/limited/exempt_local.policy
+SHA-256-Digest: of8u+vU2EK5XlUEU5yaJfaHItvC0TjZcxM6U0AhKqI8=
+
+Name: jre/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: ACM7UktoOOtpCB6Pg3oHU0wM/uGKtZPd/4kmD9dQCcY=
+
+Name: jre/bin/jdeps
+SHA-256-Digest: UlYDr4tURIOrL4KaV7CWamAQVL24JS8iGU05qB/Fb/o=
+
+Name: jre/legal/java.compiler/LICENSE
+SHA-256-Digest: 6JyIFPTLYYQd3unrUM7LGTmkfasDnDvpoZLmiZsWcNA=
+
+Name: jre/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: pl0lqSMytySg17QLEhw4lh2Nwutv5ZKftxPVKDZsldc=
+
+Name: jre/legal/jdk.attach/ASSEMBLY_EXCEPTION
+SHA-256-Digest: aAZ5FnBhWwY736LWDy8l075sSKrAESCt4osmpq4zIPc=
+
+Name: jre/lib/libjavajpeg.dylib
+SHA-256-Digest: GLjIfOjsCZZH1Fxz3+glRJxRa8fYlWbXU7i+/PG9/9E=
+
+Name: jre/legal/jdk.security.auth/ASSEMBLY_EXCEPTION
+SHA-256-Digest: J7YVvL6V6kHwBxPsdJsCgiOP3aW+rvtkmCZmHGnajy0=
+
+Name: jre/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: RCBK66NSfKPjE7H2E7YV8XuLWemgRsxMhAxEA7cZMc0=
+
+Name: jre/include/classfile_constants.h
+SHA-256-Digest: TyBAMNeAiS+fy9QTyW+1Z5mH95VZI6N5AOggc5GWFZQ=
+
+Name: jre/legal/java.desktop/freetype.md
+SHA-256-Digest: brMx7EScyalT8PbEcLVZCX/QPJvVzwh48iewWuJwfZk=
+
+Name: jre/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: ry91ea7+e1BwkAqgo/mnzfNFDDtFjgLemC+mdMqLYUI=
+
+Name: jre/conf/management/management.properties
+SHA-256-Digest: HmQ9XRnmiURrN7DUDpuvV1GgoGTcg81KLNOFsItJkf4=
+
+Name: jre/legal/jdk.jshell/ASSEMBLY_EXCEPTION
+SHA-256-Digest: lwTaveMUNOI/Gh5eULM+jZscVoZ6aV0Kffe9gfqV7dc=
+
+Name: jre/legal/java.desktop/lcms.md
+SHA-256-Digest: 6OjffAbLXHXRlVnQm6B1zYXSH8+WFk2WqCg5dWP+eqs=
+
+Name: jre/lib/server/libjsig.dylib
+SHA-256-Digest: fsj3sXDg5RQkoGV6VlcVinan4NgwYqCV2sbUkWzn7xU=
+
+Name: jre/include/darwin/jawt_md.h
+SHA-256-Digest: tCrG2K5V5bW27w99GItA4V0+pkLXsHzhbQzW6ymHFqc=
+
+Name: jre/legal/jdk.compiler/LICENSE
+SHA-256-Digest: NFadB5MjgTZvG3brID3zoUY+NDcW726lMgZTBLGwrdc=
+
+Name: jre/lib/libj2pkcs11.dylib
+SHA-256-Digest: yfUHqQkK6hlSMyi8aVf7w1XkPsb7/e6lXeHQLWZzC8A=
+
+Name: jre/legal/jdk.scripting.nashorn/LICENSE
+SHA-256-Digest: e5pYGg4Vy0cLQp3XxwSYuZlJGcpxDuJdYIhTwGuDbho=
+
+Name: jre/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION
+SHA-256-Digest: JMnIktWNHOV+/sOP6T5fAClz9ZJqKWOQwjwrcLt1uYE=
+
+Name: jre/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION
+SHA-256-Digest: lMEj1ByKzBHBFOTHxCtVetil7c1gsrW1DcHeqWQG6x4=
+
+Name: jre/include/jdwpTransport.h
+SHA-256-Digest: gqnAMMh0SOVSETxjuqXQK6LwrZe0hUJpx/jVMfWN2t8=
+
+Name: jre/legal/jdk.zipfs/LICENSE
+SHA-256-Digest: x04HN1wTlGjyppKvPQU44ZnkY4xp/ZlIPJRWYYctEdM=
+
+Name: jre/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: tXmrrNvhQMW1d0oIqXEc4gCYLWtM9iKNzPVm2z3II3A=
+
+Name: jre/legal/jdk.jdeps/ASSEMBLY_EXCEPTION
+SHA-256-Digest: VdqYiEaSAzDgU+KIvgCudZK3EjSvlwCHiNH28RpoRZ4=
+
+Name: jre/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 1Pdt0IYlg8e86VtEnCS6W2vKLZAcPWRgj6XqpudFSIY=
+
+Name: jre/bin/jar
+SHA-256-Digest: Fzpmpn2fobyc8Js/FG/6gHMsORswfhiQ+ojXRoPUfVI=
+
+Name: jre/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION
+SHA-256-Digest: nUx2hQ+DUOJe7etWmlkBvih4kwl+JeNSlvKskUyf/VY=
+
+Name: jre/legal/jdk.scripting.nashorn.shell/ASSEMBLY_EXCEPTION
+SHA-256-Digest: ogR7HCH1RamatUzioVJn3bUyXuUUUuSpal6Lvw8BrS4=
+
+Name: fragment.properties
+SHA-256-Digest: XUyukXYvV25WYwIfunNglkAnopzZBZwa1ibYdoeKvvo=
+
+Name: jre/legal/jdk.jlink/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: MafMaW65IeqlYfuDyC00xDl7FHFA1Z0mL7fTVSqvZuw=
+
+Name: jre/legal/jdk.localedata/thaidict.md
+SHA-256-Digest: yZnp/coXeABN9g0Ap/kUl+6aPpMjLGbilNuOOn0xiYY=
+
+Name: jre/legal/java.desktop/xwd.md
+SHA-256-Digest: jZnYIJpWCM2owiGj+GANFl/sD5m/OFtjLtYDFWOGO9k=
+
+Name: jre/legal/java.base/asm.md
+SHA-256-Digest: KrIAhq7E+5wVOK/I+xzF4P3BDP1F1Rl17mdSHA1KxvI=
+
+Name: jre/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION
+SHA-256-Digest: iGStVValGkaHGYYjsaA/sYHFB4O06GPOK9lERhcQpiw=
+
+Name: jre/bin/jlink
+SHA-256-Digest: tP7dcEkrhVgO988JFGUgDWU0SyyJCCMklRkBYJMTQYc=
+
+Name: jre/conf/management/jmxremote.access
+SHA-256-Digest: vCR6AJOzkSBdU5kfhKpRJP+hIb7TjZVAZAssl59cOv8=
+
+Name: jre/legal/jdk.javadoc/jszip.md
+SHA-256-Digest: KvgCGdAo8T0RhNVH/pMtQLAmO9jQsKN0HXDAbDbAt/U=
+
+Name: jre/bin/jdeprscan
+SHA-256-Digest: 882UttAIM13bPzDy86In5vAqG4qnsSU8BwSOarVc8EE=
+
+Name: jre/legal/jdk.accessibility/ASSEMBLY_EXCEPTION
+SHA-256-Digest: v3o1hnWWzXUL+KhR+P4s9EI5jYmclQvRpKUyKdeXqVY=
+
+Name: jre/legal/java.base/aes.md
+SHA-256-Digest: Oce9X6CBDZDmDv3+SWNkMYw45/PGJLLQXrk46koQKBI=
+
+Name: jre/legal/jdk.jfr/ASSEMBLY_EXCEPTION
+SHA-256-Digest: V/N8ybwNuiQ1hpS9p4Hd8mdoLq0REj5/mrxAtpa3kCo=
+
+Name: jre/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION
+SHA-256-Digest: wagsfrxH7QcvUALIuWkZRW0Vm4DIjwQA5PD3xDIXquk=
+
+Name: jre/lib/psfontj2d.properties
+SHA-256-Digest: tEKiZCe+wGAraODEIbahHazELW6Ijw0+Sw4h0ha3LhQ=
+
+Name: jre/lib/libjava.dylib
+SHA-256-Digest: jcrvhJ9N/zvunUhQJu2beilnC8M/QWdcdYfFyGy1T2k=
+
+Name: jre/legal/java.se/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Dk/4HLU/LTts/MoIoYd5r9vOg7MWuxkRfLYIMN7YVmM=
+
+Name: jre/legal/java.logging/LICENSE
+SHA-256-Digest: hiFqxVi6jIuZRGdAbcbI4+tG0d17osznAqQa9LdI1FI=
+
+Name: jre/legal/jdk.accessibility/LICENSE
+SHA-256-Digest: JMwnBrHqodXteKP6SbH913ZwNU2IoS2rj754yJSGd0E=
+
+Name: jre/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: yaoeTF5s6Kb2K+U5YXXKF4nIZt9WPl9m+SjhHe9u/HA=
+
+Name: jre/legal/java.base/cldr.md
+SHA-256-Digest: NGY0A4EhChXQEfSBUlkH4nIJgjuvOS77E8xmmr6PRrM=
+
+Name: jre/legal/jdk.aot/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: DgwF5V1wrTYg7mm5sDe/eyZtFuvtYnlneFMuTFw4itY=
+
+Name: jre/legal/java.prefs/LICENSE
+SHA-256-Digest: v8PMN6dOcnG/2GutRzuL/eE0REIqxS+JB+7Jphs89L8=
+
+Name: jre/bin/jimage
+SHA-256-Digest: nS4WZ45HKaBQ/hBscG8j8IoRXaJeOjafRQo6Lt6BQe0=
+
+Name: jre/legal/java.xml/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: hfNqng88yzTVrU6hsoPk9S54PmoWsRKwUHEsuKfcOCQ=
+
+Name: jre/legal/java.sql/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: LGFHsePi6k6PLBanYrshJAlFfQ3sLqydKGHMwZijQzE=
+
+Name: jre/legal/jdk.internal.ed/LICENSE
+SHA-256-Digest: IOssH+mK3zSlC2Lg/WBfFVa941FOb5gWyq49fbt3PfQ=
+
+Name: jre/legal/jdk.xml.dom/LICENSE
+SHA-256-Digest: 72KtpcAUTD7lsfzUqFIzH7oH3X6QjF8ldMxPR7Z7Kns=
+
+Name: jre/lib/jrt-fs.jar
+SHA-256-Digest: ohVYeS26Crj8SI5F8GpOFyKdOE9uGEaohSdSVFrX8qM=
+
+Name: jre/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 7bfKqyx1poqDYFTh7fdmM4TMzqrB5beCvpJX4LqV2QI=
+
+Name: jre/legal/java.datatransfer/LICENSE
+SHA-256-Digest: FyK70s4anW9f8wnMH4j5sRpZ8+WYyybIZJ0hIC8gi24=
+
+Name: jre/legal/jdk.management.jfr/LICENSE
+SHA-256-Digest: OoqR6g0gvAjT4R5zJcoRl7aE+sKFzL96KTIXV55oMsM=
+
+Name: jre/legal/jdk.rmic/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 20SAK3MUP7nTNMCbpLMwNICOpAyiUgRErMZAp0tHl7w=
+
+Name: jre/legal/java.scripting/ASSEMBLY_EXCEPTION
+SHA-256-Digest: Mn8wGmRMQ0z9lF0L/swRg9UMEDXKbfunsA1xQ69zsKE=
+
+Name: jre/lib/libnio.dylib
+SHA-256-Digest: mqM4ralZ5gjFS3S2j3LnL+iP61EOJi40FjMsJbDdNqc=
+
+Name: jre/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: N/pQIrUiU8TfNS4j5/udFy+nc8cSDNUzqH+7F0wJg4I=
+
+Name: jre/lib/libosxapp.dylib
+SHA-256-Digest: T7J5tCVwitIqJeMt8DoZc/49Ewncswgme0Btcxpqu2o=
+
+Name: jre/legal/jdk.naming.rmi/LICENSE
+SHA-256-Digest: O+o8eGy3WltJtOlHJ/W+gjgSltqdk7Vlp4MA4c6fCQo=
+
+Name: jre/legal/jdk.hotspot.agent/LICENSE
+SHA-256-Digest: STmk3nZnUJZYMyckJpglEwdiABZf0j94JG4SnKHW1bU=
+
+Name: jre/legal/jdk.unsupported/LICENSE
+SHA-256-Digest: 9AjVVFLo4a7gCwmdzyjdEAHMAOjZJKJUE24u57TjSDA=
+
+Name: jre/legal/java.management/LICENSE
+SHA-256-Digest: D93MfptjUXX3yKEUmhSiMH+CvzkD2TWL1+wq9ht9DBE=
+
+Name: jre/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 1h/TcmJKtskXP8ubRebQZ0Sy50GLv1gBupqgYcNA5UY=
+
+Name: jre/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: TrDTlUh15awBLqUwfp2OMR4WEKPjD3RVavNNKoMFhRo=
+
+Name: jre/include/darwin/jni_md.h
+SHA-256-Digest: H+xZurPVwXekBQUiCECGxgb87x73L/74SMKaxIuxpbE=
+
+Name: jre/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: iaPAdr37tDZ/2T3QTd8Z4OZtEnevBpqgXKl1MRCQXXw=
+
+Name: jre/legal/jdk.javadoc/LICENSE
+SHA-256-Digest: FqKx3xKSrWMLnd3cjMDGDrs1fuqPyIr/RTTqE/Q3/fE=
+
+Name: jre/legal/java.security.sasl/LICENSE
+SHA-256-Digest: DSO+Omn4FQoeZpTwqSDtwIRcCyO0Bv/QxMyDeYz/YHI=
+
+Name: jre/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: NClXrrEFsRyiXmIDuIPzqe/cIiyoGZeNXhN90kI47jM=
+
+Name: jre/lib/libjli.dylib
+SHA-256-Digest: C+P56YliH8gyMUKeS/Rm7M21Ta9S8Wk8pxcjnyGCtZI=
+
+Name: jre/legal/java.naming/LICENSE
+SHA-256-Digest: +7iBPbXB5vUf+v4Xi5+apWugmWlCBzB097F9QtZIKYs=
+
+Name: jre/legal/jdk.scripting.nashorn/double-conversion.md
+SHA-256-Digest: fEuPPpyLJGa+2/Yo8zjZ17T7dKtsVun6CwPrYH57xro=
+
+Name: jre/bin/jdb
+SHA-256-Digest: n1Jz+FcAPA1Gi/qWekNYq71zeYAnPvJKGn16pT3+FsA=
+
+Name: jre/include/jvmti.h
+SHA-256-Digest: lxXVxd27Q4guVZdsI7caLcTcOhE4I1/UlRrl4paZ/pw=
+
+Name: jre/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: B6TOHJtSyzwqyRh70wlXK+ULcSwKhpn5J6rf/xVY7SI=
+
+Name: jre/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION
+SHA-256-Digest: b4/qaGL05hZAIeTy6Xd/tM6+Vfx3yl59dOf7d4BRFhk=
+
+Name: jre/legal/java.rmi/LICENSE
+SHA-256-Digest: HUUXuElA+de5bX0YZqFZxeWbnoOnEKQapejTLpayPxc=
+
+Name: jre/legal/java.desktop/mesa3d.md
+SHA-256-Digest: ACSmhatcwTnleSil5GUOqcGhyNBaBr+kxS5RkCutEcg=
+
+Name: jre/legal/jdk.jdi/ASSEMBLY_EXCEPTION
+SHA-256-Digest: OKx0+xCmuEP/09dUhSZj5z4q0XOBrXWu3XvkTVCCBFg=
+
+Name: jre/lib/libmlib_image.dylib
+SHA-256-Digest: 25szmA/6ZyzQ/MD6e5sQnfROghxy9DxdsnqkhMpvLFQ=
+
+Name: jre/legal/jdk.management/ASSEMBLY_EXCEPTION
+SHA-256-Digest: vGgs6lmW8Tc6wvVAXVjxQjaHD55t2nJ5I3oS1ty+pyY=
+
+Name: jre/legal/jdk.internal.le/jline.md
+SHA-256-Digest: S0G9wCt8WcJ7zFiHM9NXL5JM3t6UI82X8I5H7r+pZGw=
+
+Name: jre/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: sO9wyve1+uP7FoGOqfa2GhdB0A098pLkZ9DS4NZ2pKY=
+
+Name: jre/legal/jdk.scripting.nashorn/joni.md
+SHA-256-Digest: j6I5RwXN+93dZmbe5WNufx+Agk79mf9buDyAHXemlWg=
+
+Name: jre/legal/java.desktop/LICENSE
+SHA-256-Digest: w2DAhTXl1F7q3vZyEcdnPeby8UTxfC4kW+l6RL9SuYY=
+
+Name: jre/legal/jdk.crypto.ec/ecc.md
+SHA-256-Digest: oHybU10GNVsHYZAO33Pp0DogFUOwOjItqiMymxzq5ng=
+
+Name: jre/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: rDHkGJelpwGa9uEqbRjjH74sD5iWQ2DUAMUCuziczfo=
+
+Name: jre/lib/libjdwp.dylib
+SHA-256-Digest: DF8CQLnIF9SYJdDC8tTVGcm5MM5rVdbTvVSt3NhM0rQ=
+
+Name: jre/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 71J+sO/VGLJZgxFyNs7HMQzvG5/SS+I6Vwu0Cduvh58=
+
+Name: jre/legal/jdk.charsets/ASSEMBLY_EXCEPTION
+SHA-256-Digest: F1ShdNZp0KIfwrYQaba9+xA0MhT6UC0gtzZ2G+xN060=
+
+Name: jre/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: pz19uBuX44URVZqF763Leo5JwGQqkcdjMalFgu1TOqA=
+
+Name: jre/legal/jdk.dynalink/LICENSE
+SHA-256-Digest: 5KM5VWh1Q9l3FEb6s5Nwg0TgRJIx3eI+LW2Gwr1jPKM=
+
+Name: jre/legal/jdk.localedata/ASSEMBLY_EXCEPTION
+SHA-256-Digest: fSBNyYDP3R3PHe1L5rmjmrHV2GIghlX6Zb5kjpfiS48=
+
+Name: jre/legal/jdk.internal.le/ASSEMBLY_EXCEPTION
+SHA-256-Digest: +CkQM2QLOn6NfBmXwGNqgqp/jScD+LARm4DyMCNZ6sw=
+
+Name: jre/legal/jdk.naming.dns/LICENSE
+SHA-256-Digest: rQr3Rq+JgB8DTdR4QO7ceo0/dOecXSX5YTnhCRjAOeI=
+
+Name: jre/lib/libosx.dylib
+SHA-256-Digest: G2a5ZhfulVZediib4H2q8wHetLARQ4OqQwjIp9K3/R4=
+
+Name: jre/lib/libmanagement.dylib
+SHA-256-Digest: O0VaT5PpX7vMP+qp6hYJUVyKTKha87vWveMVN1+RL9E=
+
+Name: jre/legal/java.sql/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 9SkiJPCxG9UMFDs/3r4GwuLYNbcqAPrh62XKTmJ1wQE=
+
+Name: jre/legal/jdk.jdwp.agent/LICENSE
+SHA-256-Digest: 2xvFY5vHY9/33BQUBZ2DOXetEiZT7GxGi0toCwbWP68=
+
+Name: jre/conf/security/policy/unlimited/default_local.policy
+SHA-256-Digest: B7wWTkYa7YTgVz/0/9C0oK80qNxIbiAuEEOALRwUqHs=
+
+Name: jre/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 3+L+vQKUXbvx+WDMXuVfP0W4WQ16lIaRIIWqMVDGWIQ=
+
+Name: jre/legal/jdk.jconsole/LICENSE
+SHA-256-Digest: 8lOqzYLD2B3NWAWjpA09vXKKFCwH1pj1yYHiqxlducQ=
+
+Name: jre/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: fX9huHX288ZC6qvQJocw0lbfrchinwQaEk0Fs5l2gc4=
+
+Name: jre/lib/liblcms.dylib
+SHA-256-Digest: 2wLyWjgzW24oZXOVJILu2FCerXR4dPaG7DEayR3cDlE=
+
+Name: jre/bin/jfr
+SHA-256-Digest: Yft20OACuYldlrPVxbuWwCGm6I8wneYnZIMrz+CGo1o=
+
+Name: jre/legal/jdk.crypto.cryptoki/pkcs11wrapper.md
+SHA-256-Digest: M/YDkNA5ngTht2wdImk+Q5IpzGF0FU362eJZmwHCe+8=
+
+Name: jre/lib/libjaas.dylib
+SHA-256-Digest: efABOILIYRWJNzzU33VdtQg7zShueLe1y8TFcsP3Wek=
+
+Name: jre/legal/jdk.crypto.cryptoki/LICENSE
+SHA-256-Digest: It5uQorUkjhPTYKKQGDythUrCMaiW7y8ynR8Ltz48S0=
+
+Name: jre/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: qq9okFZ3ZZbMmLr/R1naIPFNmzRD88kBdfFRBRlpMy0=
+
+Name: jre/legal/java.management/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: WYE2Fz1jhIDw5PoBUJYrANiYBRyXPJfqFTxu3Wfh+Jg=
+
+Name: jre/lib/libnet.dylib
+SHA-256-Digest: QuELh4MF4voW9/9kFlsm4Yqw13Xy9eVymVk1Djg6F7Q=
+
+Name: jre/include/jvmticmlr.h
+SHA-256-Digest: PFb/+drX+U7udUxzNhUhrJS9bGCSLsEluUz5chot4pg=
+
+Name: jre/legal/jdk.jstatd/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: WzhUgqsCIuXiFvgaSkWoYBRXJfRtmrwax7lc722YsGU=
+
+Name: jre/legal/jdk.nio.mapmode/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 48Z9VxeP4UFlKzecbhnG1V5AmVddSOkagtXFy/LMiTo=
+
+Name: jre/legal/jdk.httpserver/ASSEMBLY_EXCEPTION
+SHA-256-Digest: OrB0fjHyVaVVcGFO7rDYZ6xZqJLfv/3nHDnlSQMOs9Y=
+
+Name: jre/legal/jdk.internal.opt/LICENSE
+SHA-256-Digest: +nPONNGvBustYb3Jaxdj6Lir5rvF6DYkCJp8BcYnm0s=
+
+Name: jre/legal/jdk.jdi/LICENSE
+SHA-256-Digest: tQjvoIUADrgJDyg7gxZAr9yjdIZo5wKZCciFeRyxD/8=
+
+Name: jre/legal/jdk.localedata/cldr.md
+SHA-256-Digest: ZgULVUfnShpblNhrq1+fy1LFNlZe7h38lbyyPbFMabg=
+
+Name: jre/lib/jfr/default.jfc
+SHA-256-Digest: 59aGR5rlTfXQmGEkhNntVYxoky6c9E6oY5RMpMw8Jgw=
+
+Name: jre/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: KDQeH2//oztJhB11HDH14ViUg390oOY5AnKU4BNQ528=
+
+Name: jre/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Ee8NQmUxd7gyfHm1N0MR74jeSiI7ZsFNL1qLRmA+Dts=
+
+Name: jre/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: sFb3lS43kTUiUJDOo0RHQ4ioR1aSu7U6UoCfu2TxBEU=
+
+Name: jre/bin/serialver
+SHA-256-Digest: h3t5X7ZWfVukXd0GYSABQIsFquS1mFNIa3O4HUpNItU=
+
+Name: jre/legal/java.compiler/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 1a3nAAshE0ZKcuSLQJGPWlQyBegyiuq5wVSuGqgNZ9M=
+
+Name: jre/lib/libfreetype.dylib
+SHA-256-Digest: REM1PBFJn+vHzaNqVrdWPy+m1OYVHpI4ANA/xf07fhQ=
+
+Name: jre/lib/libj2pcsc.dylib
+SHA-256-Digest: ViBiX5CvTbaFKAvVtHiTVrr/xYMnSK8GS5BSvZTBEYE=
+
+Name: jre/legal/java.xml/ASSEMBLY_EXCEPTION
+SHA-256-Digest: vcqUq8dL4SezlvFjvSkzFuYh8+v3FsGK0ovdZIipDsY=
+
+Name: jre/legal/jdk.jdeps/LICENSE
+SHA-256-Digest: gUwQJscyx6glcfHtkXn+LXI71+0KKJJeQcdMQ6ui7LA=
+
+Name: jre/conf/security/java.security
+SHA-256-Digest: 9GIQXe5gk5I429LOlPK4D7/FqBSljdyFUxbUFdGZsw4=
+
+Name: jre/legal/jdk.javadoc/jquery.md
+SHA-256-Digest: z3vpwyjwe64TrEeuI/ZLo4GalZCTj7xAuZ3UdgBWVck=
+
+Name: jre/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION
+SHA-256-Digest: clZrF8chPdYpmrreBvgU1DwuLDY+DbYt7rA/wCS7MZ0=
+
+Name: jre/legal/jdk.rmic/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Ui0wbbALPICMcG9NO4znPDWYpzceyUVBI7WitkU+NtY=
+
+Name: jre/lib/libjawt.dylib
+SHA-256-Digest: aw4AmgUdv7rTGMe5qb9EY5z202Q1OD4boQ8DytsZ7q4=
+
+Name: jre/include/jni.h
+SHA-256-Digest: piDofoay00uR1yVdujiBHouhlh7rac6MvG9nRH/ZJBA=
+
+Name: jre/legal/java.desktop/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 091Ny5j3zPb5gfkDWixg2UODydh7nvVMhn26X7owN24=
+
+Name: jre/legal/jdk.scripting.nashorn/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: tLc095Gq2yn7qB+mENroekU09DgE1lY+3BTek7eQZuI=
+
+Name: jre/legal/java.desktop/libpng.md
+SHA-256-Digest: 5ZGR29T6O79NbZlsSxzfiJ+9OcjcUC6i1N7rM2GUia8=
+
+Name: jre/release
+SHA-256-Digest: 1eYy/Lmx8wIMIL59HyE9jJkwKmcNX6OXCBvuV3VlYPA=
+
+Name: jre/legal/java.xml.crypto/LICENSE
+SHA-256-Digest: o1NvnTVx86z5b46fGBnmzmX7C7ixBAQTDsQwo8XIqdk=
+
+Name: jre/legal/java.sql.rowset/ASSEMBLY_EXCEPTION
+SHA-256-Digest: 8qczn0EmWxOP1IHU5PAIe1CHxI+yrz1i3XM+282c4JU=
+
+Name: jre/legal/jdk.management/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: pQIC47Ufd4HfdVJWE91gpNTcbR39+Lbag4pLjvZ7E2U=
+
+Name: jre/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Vf7EPnc//kKkCJJG55dcUVkNeF3OnVMYhz6VCerJbPc=
+
+Name: jre/bin/keytool
+SHA-256-Digest: Bg29CIruTQOVOd004NhAraYzgCpY6byfJxqnJQU0L8U=
+
+Name: jre/legal/jdk.unsupported/ASSEMBLY_EXCEPTION
+SHA-256-Digest: iKQ1Bqr+tI9PciTXYNti8lPc1qOAardTRAPcXwHgnRQ=
+
+Name: jre/legal/jdk.attach/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: a0cXG88uPQRWusQL6q5W0Wr+1yDabHkUmzIhl1r0qho=
+
+Name: jre/legal/jdk.internal.vm.compiler.management/LICENSE
+SHA-256-Digest: c0PK4ArrJAli8vFaFBbHlus9iztWUCp9ys7NV/LqXh0=
+
+Name: jre/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: M/J7aVskA9aLMWtESoZvB2vtqxdYU/2W5yEO6ltq3dQ=
+
+Name: jre/bin/javac
+SHA-256-Digest: aCliLAvr4cH/EybemoONq2Eua0L9T0LIJQcBCD0fv3o=
+
+Name: jre/lib/jvm.cfg
+SHA-256-Digest: B1ql/lgOTa3QOuLL3lNUMJLdTtTpogMz9ds7e/KZY8Q=
+
+Name: jre/legal/java.sql.rowset/LICENSE
+SHA-256-Digest: xTYyrtfeKmqRfSoabneb5BKr+N/Qh+VoD/f3a1Vn7bo=
+
+Name: jre/legal/java.instrument/LICENSE
+SHA-256-Digest: dI1DZlIxXgu3g68RgweB3vKYAaU0250uETbBEu3/6Mg=
+
+Name: jre/bin/jaotc
+SHA-256-Digest: khRXmg61lPuC3m9nFFaSjGPYOq11zhn8OqcIgaVh9LM=
+
+Name: jre/lib/security/cacerts
+SHA-256-Digest: WefUG83X1Ri8d5aDoOhwMUj6H3ylO5O0rG2QRlKMNbk=
+
+Name: jre/legal/java.xml.crypto/ASSEMBLY_EXCEPTION
+SHA-256-Digest: Z/heiDuJE9sq1mVDnonc8LU41dMBsEZDmR1JGSCyBy8=
+
+Name: jre/legal/jdk.jsobject/LICENSE
+SHA-256-Digest: CjoGkC6XZNYZ/x6WngAcr7elUR1cHoPny1Arh+/CdFs=
+
+Name: jre/legal/java.prefs/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: 6DQCrVNvufKBUr7kIM+L5kATvhgRKUcWWvMbP0IT4vs=
+
+Name: jre/legal/java.transaction.xa/ASSEMBLY_EXCEPTION
+SHA-256-Digest: JJ7TFxz02afCfli5GASilP3f6TpH3RevQ8MKAgHoFDk=
+
+Name: jre/bin/javap
+SHA-256-Digest: 7c9FNgNgtFGxAg/5moggHAxPoeehfA7Q/zov+M8D8OI=
+
+Name: jre/legal/java.xml/dom.md
+SHA-256-Digest: R37ETGUkvJ3lgTefpJn8FQ3Ed8HF40PkHzkgRmrQTC0=
+
+Name: jre/bin/java
+SHA-256-Digest: GSBiDYi+N9d3kuFx9iHnbKKzEnEIJC/J3czW+k2HzQw=
+
+Name: jre/legal/jdk.compiler/ASSEMBLY_EXCEPTION
+SHA-256-Digest: jH7AJHElxR6F58KipllDVudh7l5sJJGGSVPICl+fXBc=
+
+Name: jre/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md
+SHA-256-Digest: WfSlqq230RM2RoTPcJ9Gw2htdbbXy+7nK4PJoV2YtRQ=
+
+Name: jre/legal/java.base/ASSEMBLY_EXCEPTION
+SHA-256-Digest: f+2tQT2GTA+0EgB0g2tI/puB77kKT7NwSYv8DewkwGA=
+
+Name: jre/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: By1FekSP8zTj8/k6f19/xf08FZSEd6wbB4N3zUIvjBU=
+
+Name: jre/conf/logging.properties
+SHA-256-Digest: op6erDGbqMjM57Vq/K8ch83yr8ngT/PPLvSy68DgS2A=
+
+Name: jre/legal/java.se/LICENSE
+SHA-256-Digest: czgR4FX+pHgINsNkd1NLEy+A0DLMMbVTcFACQ0DCLlQ=
+
+Name: jre/legal/java.net.http/ASSEMBLY_EXCEPTION
+SHA-256-Digest: wvbm2TOO6oEOrAa7X3KHmh5QULBAQs5oBdJZaxeCk68=
+
+Name: jre/legal/java.base/c-libutl.md
+SHA-256-Digest: ZaNtxasCyMOaBo6uhTiJ6DwGb1fp5JI+CgRsdE7MR7Q=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: jre/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: /iCF9yNucv9OaVyeV93/4yAX+AS3TLkMfHL2BBbxfyQ=
+
+Name: jre/legal/java.instrument/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: FPn4eKCAXuNq0t/jIQ8EdqtK6BlusaNsz1YyTKeP4U0=
+
+Name: jre/legal/java.management.rmi/LICENSE
+SHA-256-Digest: uaOXwTEZsYTqa5WOI33Low/ghDuRgLlqwek2KE8DPFY=
+
+Name: jre/legal/java.datatransfer/ASSEMBLY_EXCEPTION
+SHA-256-Digest: YWrctYId914eNqfzZZVU/cB29qO24oYVYDFBAN+CUlY=
+
+Name: jre/lib/ct.sym
+SHA-256-Digest: 7JurN6rxM2Zdw9/MGy8v7EJnkF00Ai4IMB6iJAzy5FA=
+
+Name: jre/include/jawt.h
+SHA-256-Digest: ZYKCCqc4N19kElTm9cy6GzzcEZ1uwGBR9WgrcSeq3Mo=
+
+Name: jre/legal/java.xml.crypto/santuario.md
+SHA-256-Digest: fiPGydkZps75815f/C/KQ9sgQ4XMST25jrKwHmHBZCQ=
+
+Name: jre/lib/jfr/profile.jfc
+SHA-256-Digest: /dTSMp0g4ywm+3eQHi7dxb2GYo7c3XG06TXREngJMNY=
+
+Name: jre/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: HqPAyqZdrQBbo/7niwteyDyEAMGA/WlVs70KYU9jxS8=
+
+Name: jre/legal/jdk.jlink/LICENSE
+SHA-256-Digest: j0HYpO5AciO+yWEbQs9t1B9BlREH6mEhL3Rr+0JiLjo=
+
+Name: jre/conf/security/java.policy
+SHA-256-Digest: PCq52QXFaseqQxRmy/+7Qzsjp4G/x+Lb0fE+/wAOu2Q=
+
+Name: jre/legal/java.transaction.xa/LICENSE
+SHA-256-Digest: 36mp1lxu0ZtDa/tAJR3bksGW13QDG9+KA0yt1FFLV3s=
+
+Name: jre/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: WJGiGdUPfghq+JzUa71mChlxfc1xfLRIq1tIJl52SG8=
+
+Name: jre/legal/jdk.scripting.nashorn.shell/LICENSE
+SHA-256-Digest: tgO7HFuio+Gk2KfMMZ0UC7B2V5wBh4MDLwXO5q57qio=
+
+Name: jre/legal/jdk.attach/LICENSE
+SHA-256-Digest: kZwyL+xRXtbsGgCMGpob/flGLstbKp/W5N9YK9CTmgY=
+
+Name: jre/lib/libfontmanager.dylib
+SHA-256-Digest: 13xZubohMEjqiujDC0berk1vCeOcaFBipMySMIkeGs8=
+
+Name: jre/legal/jdk.editpad/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: eGgUwg3Ws4zdniGMs5t3rYvICGbr3liYyV2d8rMjvY4=
+
+Name: jre/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: /P+rOfXzQ7fDAj+1GQjlFn3OX/NlTBrCJzszwWxbmGs=
+
+Name: jre/conf/security/policy/limited/default_US_export.policy
+SHA-256-Digest: bMDnqe3nqtpbwyz+D4oWJTN3doVQRGP2JfF7+62/KbY=
+
+Name: jre/legal/java.desktop/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Zd51d667l6wh4+w7kFa27CQXA8VMw9PAdQovE6nmdQc=
+
+Name: jre/legal/java.management/ASSEMBLY_EXCEPTION
+SHA-256-Digest: LBpxqg2mHL0Mgoua1oAMt4+idbeArNhmUjJDE0BDWK8=
+
