@@ -1,0 +1,47 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/noyan/dev/glist/myglistapps/GlistApp/src/GameCanvas.cpp" "/Users/noyan/dev/glist/myglistapps/GlistApp/_build/Release/CMakeFiles/GlistApp.dir/src/GameCanvas.cpp.o"
+  "/Users/noyan/dev/glist/myglistapps/GlistApp/src/gApp.cpp" "/Users/noyan/dev/glist/myglistapps/GlistApp/_build/Release/CMakeFiles/GlistApp.dir/src/gApp.cpp.o"
+  "/Users/noyan/dev/glist/myglistapps/GlistApp/src/main.cpp" "/Users/noyan/dev/glist/myglistapps/GlistApp/_build/Release/CMakeFiles/GlistApp.dir/src/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../../../../GlistEngine/libs/stb/include"
+  "../../../../GlistEngine/libs/fmod/include"
+  "../../../../GlistEngine/libs/utf8/include"
+  "../../../../GlistEngine/libs/ghc/include"
+  "../../../../GlistEngine/engine/ui"
+  "../../../../GlistEngine/engine/utils"
+  "../../../../GlistEngine/engine/types"
+  "../../../../GlistEngine/engine/media"
+  "../../../../GlistEngine/engine/graphics"
+  "../../../../GlistEngine/engine/graphics/primitives"
+  "../../../../GlistEngine/engine/graphics/posteffects"
+  "../../../../GlistEngine/engine/graphics/posteffects/kerneleffects"
+  "../../../../GlistEngine/engine/animation"
+  "../../../../GlistEngine/engine/ui/base"
+  "../../../../GlistEngine/engine/base"
+  "../../../../GlistEngine/engine/core"
+  "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers"
+  "/usr/local/include"
+  "/usr/local/include/freetype2"
+  "../../../../zbin/glistzbin-macos-x86_64/mingw64/include/sqlite"
+  "/usr/local/Cellar/openssl@1.1/1.1.1t/include"
+  "../../GlistApp"
+  "../../PRIVATE"
+  "../../src"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/Users/noyan/dev/glist/myglistapps/GlistApp/_build/Release/CMakeFiles/GlistEngine.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
