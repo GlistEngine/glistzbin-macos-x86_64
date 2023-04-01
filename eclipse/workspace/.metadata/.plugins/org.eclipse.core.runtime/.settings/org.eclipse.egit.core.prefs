@@ -1,3 +1,4 @@
-GitRepositoriesView.GitDirectories=/Users/noyan/dev/glist/GlistEngine/.git\:/Users/noyan/dev/glist/myglistapps/GlistApp/.git\:
-GitRepositoriesView.GitDirectories.relative=/Users/noyan/dev/glist/GlistEngine/.git\:/Users/noyan/dev/glist/myglistapps/GlistApp/.git\:
+GitRepositoriesView.GitDirectories=
+GitRepositoriesView.GitDirectories.relative=
+core_save_credentials_in_secure_store=false
 eclipse.preferences.version=1
