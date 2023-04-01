@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><plist version="1.0">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<plist version="1.0">
   
   <dict>
+    	
+    <key>NSRequiresAquaSystemAppearance</key>
+    		
+    <true/>
     	
     <key>CFBundleExecutable</key>
     		
@@ -8,7 +13,7 @@
     	
     <key>CFBundleGetInfoString</key>
     		
-    <string>Eclipse 4.17 for Mac OS X, Copyright IBM Corp. and others 2002, 2020. All rights reserved.</string>
+    <string>Eclipse 4.27 for Mac OS X, Copyright IBM Corp. and others 2002, 2023. All rights reserved.</string>
     	
     <key>CFBundleIconFile</key>
     		
@@ -16,7 +21,7 @@
     	
     <key>CFBundleIdentifier</key>
     		
-    <string>org.eclipse.platform.ide</string>
+    <string>epp.package.cpp</string>
     	
     <key>CFBundleInfoDictionaryVersion</key>
     		
@@ -32,7 +37,7 @@
     	
     <key>CFBundleShortVersionString</key>
     		
-    <string>4.17.0</string>
+    <string>4.27.0</string>
     	
     <key>CFBundleSignature</key>
     		
@@ -40,7 +45,7 @@
     	
     <key>CFBundleVersion</key>
     		
-    <string>4.17.0.I20200902-1800</string>
+    <string>4.27.0.20230309-1200</string>
     	
     <key>NSHighResolutionCapable</key>
     		
@@ -55,10 +60,9 @@
     		
     <array>
       			
-      <!-- to use a specific Java version (instead of the platform's default) uncomment one of the following options,
-					or add a VM found via $/usr/libexec/java_home -V
-				<string>-vm</string><string>/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Commands/java</string>
-				<string>-vm</string><string>/Library/Java/JavaVirtualMachines/1.8.0.jdk/Contents/Home/bin/java</string>
+      <!-- To use a specific Java version (instead of the default) uncomment the following option and 
+				edit it to add a VM. Installed VMs can be found via $/usr/libexec/java_home -V
+				<string>-vm</string><string>/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/bin/java</string>
 			-->
       			
       <string>-keyring</string>
@@ -68,25 +72,6 @@
     
     <key>CFBundleDisplayName</key>
     <string>Eclipse</string>
-  	<key>CFBundleURLTypes</key>
-		<array>
-			<dict>
-				<key>CFBundleURLName</key>
-					<string>Eclipse command</string>
-				<key>CFBundleURLSchemes</key>
-					<array>
-						<string>eclipse+command</string>
-					</array>
-			</dict>
-			<dict>
-				<key>CFBundleURLName</key>
-					<string>Eclipse Marketplace</string>
-				<key>CFBundleURLSchemes</key>
-					<array>
-						<string>eclipse+mpc</string>
-					</array>
-			</dict>
-		</array>
-</dict>
+  </dict>
   
 </plist>
